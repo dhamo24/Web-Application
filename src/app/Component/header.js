@@ -5,7 +5,7 @@ import Link from "next/link"
             
         <header className="bg-white shadow-lg">
         <div className=" px-4 py-6 flex justify-between items-center bg-black" >
-            <h1 className="text-2xl text-white">Blog</h1>
+            <h1 className="text-2xl text-white">Blogs</h1>
             <nav className="space-x-4">
                 <Link href="/Service" className="text-white">Service</Link>
                 <Link href="/About" className="text-white">About</Link>
